@@ -1,0 +1,48 @@
+body {
+
+    background-image: url(background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color: rgb(124, 124, 124);
+    color:rgb(255, 255, 255)
+  
+
+    }
+
+.header {
+
+
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-decoration: underline;
+    font-weight:inherit;
+
+}
+.ctp {
+
+    font-size: medium;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color:rgb(255, 255, 255)
+  
+  }
+    
+  
+  a {
+    color:rgb(250, 250, 250);
+    text-decoration: none;
+  
+  }
+  
+  a:hover{
+  
+    color:rgb(245, 245, 245)
+  
+  }
+
+h1 {
+
+    font-weight: bolder;
+    color:rgb(250, 250, 250);
+    text-align: center;
+}
+   
